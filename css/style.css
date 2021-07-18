@@ -623,7 +623,8 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 }
 
 .pana-accordion-item .pa-text .pa-author img,
-.hero-item .pa-text .pa-author img {
+.hero-item .pa-text .pa-author img,
+.pa-author {
 	width: 60px;
 	height: 60px;
 	float: left;
@@ -1878,4 +1879,14 @@ only screen and (min-width: 992px) and (max-width: 1200px),
 .contact-line {
 	font-style: italic; 
 	font-size: 8 px !important;
+}
+
+.navbar-custom {
+	background-color: #2916E0 !important;
+}
+
+.rnd-sm {
+	border-radius: 50%;
+	max-width: 30%;
+	height: auto;
 }

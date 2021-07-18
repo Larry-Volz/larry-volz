@@ -6,7 +6,7 @@ To that end I've just earned my second degree - this one in computer science.  A
 
 If you are looking for a great, creative software engineer then look no farther!  I have the soft skills of a therapist, the creativity of an entertainer/inventor, and the work ethic of a self-employed parent.  
 
-Ping me like I'm a CLI on a persnickity network at:
+Ping me at:
 
 Larry Volz
 804-882-1951
