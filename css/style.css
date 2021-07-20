@@ -597,7 +597,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 		font-size: 26px;
 		transition: 2s;
 		cursor: pointer;
-		color: white !important;
+		color: white;
 	}
 }
 
@@ -1888,5 +1888,16 @@ only screen and (min-width: 992px) and (max-width: 1200px),
 .rnd-sm {
 	border-radius: 50%;
 	max-width: 30%;
+	height: auto;
+}
+
+.signature-line {
+	display: inline-block !important;
+	color:white !important;
+}
+
+.circle {
+	border-radius: 50%;
+	max-width: 60%;
 	height: auto;
 }
