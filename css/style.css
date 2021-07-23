@@ -1901,3 +1901,9 @@ only screen and (min-width: 992px) and (max-width: 1200px),
 	max-width: 60%;
 	height: auto;
 }
+
+.dk-blue {
+	color: #2916E0;
+	font-weight: bolder;
+	font-size: 110%;
+}
