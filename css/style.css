@@ -540,16 +540,16 @@ ol {
 
 .pana-accordion-item .pa-text h2,
 .hero-item .pa-text h2 {
-	font-size: 60px;
-	transition: 2s;
+	font-size: 36px;
+	transition: 1s;
 	font-weight: 700;
 	color: #fff !important;
 	margin-bottom: 20px;
 }
 
 .pana-accordion-item .pa-text h2:hover {
-	font-size: 62px;
-	transition: 2s;
+	font-size: 38px;
+	transition: 1s;
 	cursor: pointer;
 	color: white !important;
 }
@@ -561,11 +561,11 @@ ol {
 only screen and (min-width: 768px) and (max-width: 991px) {
 	.pana-accordion-item .pa-text h2,
 	.hero-item .pa-text h2 {
-		font-size: 48px;
+		font-size: 28px;
 	}
 
 	.pana-accordion-item .pa-text h2:hover {
-		font-size: 50px;
+		font-size: 32px;
 		transition: 2s;
 		cursor: pointer;
 		color: white !important;
@@ -576,11 +576,11 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 @media (max-width: 576px) {
 	.pana-accordion-item .pa-text h2,
 	.hero-item .pa-text h2 {
-		font-size: 36px;
+		font-size: 28px;
 	}
 
 	.pana-accordion-item .pa-text h2:hover {
-		font-size: 38px;
+		font-size: 32px;
 		transition: 2s;
 		cursor: pointer;
 		color: white !important;
@@ -1906,4 +1906,25 @@ only screen and (min-width: 992px) and (max-width: 1200px),
 	color: #2916E0;
 	font-weight: bolder;
 	font-size: 110%;
+}
+
+.pa-text a {
+	color: white;
+}
+
+h4 a {
+	font-size: 100%;
+	color: white;
+	transition: 1s;
+}
+
+h4 a:hover{
+	font-size: 120%;
+	color: blue;
+	transition: 1s;
+}
+
+h2 a:hover {
+	color: blue;
+	transition: 1s;
 }
