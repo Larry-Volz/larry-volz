@@ -1,15 +1,18 @@
-Welcome to my portfolio!  
+# Welcome to my portfolio!  
 
-I've been a web developer part-time for decades alongside my crazy entrepreneurial projects that have taken me around the world with adventures of all kinds.  And now I have decided to settle down and turn the hobby into my full-time gig and just do the occasional show or design the occassional escape room.
+I've been a software developer part-time for decades alongside my crazy entrepreneurial projects in entertainment and escape room design that have taken me around the world with adventures of all kinds for two decades.  Over the years I've written escape room tech, a corporate intranet/CRM/CMS from scratch and web resources in HTML/CSS/JavaScript, PHP, MySQL, Python, Arduino-C/C++, and a wee bit of Java.
 
-To that end I've just earned my second degree - this one in computer science.  And I am finishing up a competitive boot camp program with Springboard in software engineering so that I will be up-to-the-minute with the newest, best and brightest technologies.
+As I am getting older I  have decided to settle down a bit (just a bit).  
 
-If you are looking for a great, creative software engineer then look no farther!  I have the soft skills of a therapist, the creativity of an entertainer/inventor, and the work ethic of a self-employed parent.  
+I recently finished a degree in computer science at University of the People.  I am finishing up an advanced software engineering bootcamp at Springboard.  And now I am switching things up in a mid-life career pivot: turning the lifetime hobby into a full-time profession and the old gigs into the weekend hobbies.
 
-Ping me at:
+To that end I have been getting up-to-the-minute with the newest, best and brightest technologies like Python, Flask, PostgreSQL, SQLAlchemy, AJAX/REST API's, JavaScript, jQuery/jQuery-UI, Node.JS, REACT, various testing platforms and more.
+
+If you are looking for a great, creative software engineer then look no farther!  I have the soft skills of a trained life coach, the creativity of an entertainer/inventor, and the work ethic of a self-employed parent.  
+
+To make great things happen together ping me at:
 
 Larry Volz
 804-882-1951
-imaginologist@gmail.com 
+(imaginologist@gmail.com)
 
-Oh... and regarding the portfolio file:  It's a bootstrap-based template that I updated and put my own unique twists on.  That tends to be my M.O. with web dev nowadays since there is no point in re-inventing the wheel.  There's nothing in the template that I could not re-create from scratch using the same libraries.  jQuery, JavaScript and Bootstrap are my jam :)
