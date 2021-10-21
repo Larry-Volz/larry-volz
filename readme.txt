@@ -1,4 +1,4 @@
-# Welcome to my portfolio!  
+Welcome to my portfolio!  
 
 I've been a software developer part-time for decades alongside my crazy entrepreneurial projects in entertainment and escape room design that have taken me around the world with adventures of all kinds for two decades.  Over the years I've written escape room tech, a corporate intranet/CRM/CMS from scratch and web resources in HTML/CSS/JavaScript, PHP, MySQL, Python, Arduino-C/C++, and a wee bit of Java.
 
@@ -14,5 +14,5 @@ To make great things happen together ping me at:
 
 Larry Volz
 804-882-1951
-(imaginologist@gmail.com)
+imaginologist@gmail.com
 
