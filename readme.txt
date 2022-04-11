@@ -2,6 +2,8 @@ Welcome to my portfolio!
 
 I've been a software developer part-time for decades alongside my crazy entrepreneurial projects in entertainment and escape room design that have taken me around the world with adventures of all kinds for two decades.  Over the years I've written escape room tech, a corporate intranet/CRM/CMS from scratch and web resources in HTML/CSS/JavaScript, PHP, MySQL, Python, Arduino-C/C++, and a wee bit of Java.
 
+But mostly - I'm your SHOPIFY GUY!  I'm using my experience as a business success coach and software engineer to help others grow their businesses now. My shameless self-promotion for that is at www.TheShopifyGuy.net.  There are also some good demo videos of the kinds of Shopify services I have been providing as a freelancer on my brand new Upwork profile at [https://www.upwork.com/freelancers/~01b92ac192749096c7](https://www.upwork.com/freelancers/~01b92ac192749096c7)
+
 As I am getting older I  have decided to settle down a bit (just a bit).  
 
 I recently finished a degree in computer science at University of the People.  I am finishing up an advanced software engineering bootcamp at Springboard.  And now I am switching things up in a mid-life career pivot: turning the lifetime hobby into a full-time profession and the old gigs into the weekend hobbies.
