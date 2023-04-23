@@ -1,14 +1,14 @@
 Welcome to my portfolio!  
 
-I've been a software developer part-time for decades alongside my crazy entrepreneurial projects in entertainment and escape room design that have taken me around the world with adventures of all kinds for two decades.  Over the years I've written escape room tech, a corporate intranet/CRM/CMS from scratch and web resources in HTML/CSS/JavaScript, PHP, MySQL, Python, Arduino-C/C++, and a wee bit of Java.
+I'm a hypnotherapist by trade (for over 20 years) but have enjoyed amateur and occassional freelance software development since I was a kid. I recently just earned an associates in computer science and certifications in software engineering and shopify development.
 
-But mostly - I'm your SHOPIFY GUY!  I'm using my experience as a business success coach and software engineer to help others grow their businesses now. My shameless self-promotion for that is at www.TheShopifyGuy.net.  There are also some good demo videos of the kinds of Shopify services I have been providing as a freelancer on my brand new Upwork profile at https://www.upwork.com/freelancers/~01b92ac192749096c7.
+Mostly, if I'm doing development it's for escape room inventions. 
 
-My shopify expertise comes from Freemote - the leader in Shopify freelancer education.  I am also trained in computer science with degrees from University of the People and Radford University.  And I have recently been buffing up my software engineering skills at Springboard's well-respected intensive bootcamp. 
+I've also been an entertainer (comedy hypnotist and magician) for decades.  My crazy entrepreneurial projects in entertainment and escape room design have taken me around the world with adventures of all kinds for two decades.  
 
-Their I have been getting up-to-the-minute with the newest, best and brightest technologies like Python/Flask, PostgreSQL/SQLAlchemy, AJAX/RESTful API's, JavaScript flavors like jQuery/jQuery-UI, Node.JS, REACT, a bunch of different testing platforms and more.
+Over the years I've written escape room tech, a corporate intranet/CRM/CMS from scratch and web resources in HTML/CSS/JavaScript, PHP, MySQL, Python, Arduino-C/C++, and a wee bit of Java.
 
-If you are looking for a great, creative software engineer then look no farther!  I have the soft skills of a trained life coach, the creativity of an entertainer/inventor, the work ethic of a self-employed parent and the modesty of... well... okay... this IS a marketing platform isn't it?  Whose gonna toot my horn if I don't!?  
+I've also enjoyed some teaching at CodeWizardsHQ where I had more fun doing Scratch with kids than I ever thought possible :)
 
 To make great things happen together ping me at:
 
